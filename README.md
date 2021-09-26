@@ -1,17 +1,8 @@
 # railway-xray-new
 # 使用Railway部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
 
-> 提醒： 滥用可能导致账户被BAN！！！ 
-
 # 9月21日修复
 
-# 首先声明一下
-
-### 本项目为 https://github.com/Lbingyi/HerokuXray 大佬的heroku项目修改，因为有人反映同时fork二者会有冲突，我才将此重新上传改为本人的项目
-### 不是剽窃，感谢Lbingyi大佬的付出，谢谢！
-#### 另外在此批评 github id ： `zzysite` 尊重他人智力成果 ，加上原作者的备注，谢谢
-
-[![55Egg.png](https://i.w3tt.com/2021/09/08/55Egg.png)](https://img.tg/image/55Egg)
 
 ## 概述
 
@@ -24,11 +15,6 @@ vless 性能更加优秀，占用资源更少。
 * 支持tor网络，且可通过自定义网络配置文件启动xray和caddy来按需配置各种功能  
 * 支持存储自定义文件,目录及账号密码均为UUID,客户端务必使用TLS连接  
 
-～～～～～～～～～～～～～～～～
-## 机场推荐：
-3元一月，全球多地流媒体解锁，中转节点晚高峰8k不卡。适合全国大部分网络
-注册地址：https://suo.yt/R7Fxm66
-～～～～～～～～～～～～～～～～
 
 
 
