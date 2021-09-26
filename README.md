@@ -39,7 +39,7 @@ fork 之后 ，在railway的dashboard，选择 new project
 ```bash
 * 客户端下载：https://github.com/2dust/v2rayN/releases
 * 代理协议：vless 或 vmess
-* 地址：xxx.herokuapp.com
+* 地址：xxx.xxxx.xxx
 * 端口：443
 * 默认UUID：24b4b1e1-7a89-45f6-858c-242cf53b5bdb
 * vmess额外id：0
