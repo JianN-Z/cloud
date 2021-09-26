@@ -1,3 +1,4 @@
+# 自用仓库，感谢大神们的源码分享。
 # railway-xray-new
 # 使用Railway部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
 
