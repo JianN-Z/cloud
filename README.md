@@ -1,4 +1,4 @@
-# 自用仓库，感谢大神们的源码分享。
+# 自用仓库，感谢开源码分享者的辛劳之作。。
 
 用于在 railway 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 Xray core 。  
 vless 性能更加优秀，占用资源更少。
