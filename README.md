@@ -1,6 +1,6 @@
 # 自用仓库，感谢开源码分享者的辛劳之作，Lbingyi & Laurence8866 .
 
-用于在 railway 上部署 vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 Xray core 。  
+vless+websocket+tls，每次部署自动选择最新的 alpine linux 和 Xray core 。  
 vless 性能更加优秀，占用资源更少。
 
 * 使用[xray](https://github.com/XTLS/Xray-core)+caddy同时部署通过ws传输的vmess vless trojan shadowsocks socks等协议，并默认已配置好伪装网站。
