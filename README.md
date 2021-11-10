@@ -120,4 +120,15 @@ addEventListener(
 * 请参考 [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) `推荐`
 * 请参考 [better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)
 
-
+```bash
+addEventListener(
+  "fetch",event => {
+     let url=new URL(event.request.url);
+     url.hostname="你的heroku域名.herokuapp.com";
+     let request=new Request(url,event.request);
+     event. respondWith(
+       fetch(request)
+     )
+  }
+)
+```
